@@ -1,8 +1,6 @@
 <div align="center">
 
-# hunterhaunter
-
-**1.12.2 Minecraft Mod Developer**
+# Xy
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
 ![Forge](https://img.shields.io/badge/Forge-1.12.2-000000?style=for-the-badge)
