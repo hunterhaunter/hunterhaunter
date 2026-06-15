@@ -3,6 +3,8 @@
 ### Xy
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62b47a?style=for-the-badge)
+
 
 </div>
 
