@@ -22,12 +22,10 @@
 | Falling Leaves            | 79        |
 | You Died                  | 27        |
 
-**Total: ~2K Downloads**
-
 ---
 
 <div align="center">
 
-[All Repositories](https://github.com/hunterhaunter?tab=repositories) • [CurseForge](https://www.curseforge.com/members/nameisxy/projects)
+[CurseForge](https://www.curseforge.com/members/nameisxy/projects)
 
 </div>
