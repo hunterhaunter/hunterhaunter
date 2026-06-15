@@ -1,1 +1,41 @@
-[![Xy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterhaunter)](https://github.com/hunterhaunter/github-readme-stats)
+<div align="center">
+
+# hunterhaunter
+
+**1.12.2 Minecraft Mod Developer**
+
+![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
+![Forge](https://img.shields.io/badge/Forge-1.12.2-000000?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+### Accurate Block Placement Reforked
+
+[![CurseForge](https://img.shields.io/badge/CurseForge-1.1K_Downloads-FF6B00?style=flat&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked)
+
+---
+
+### 1.12.2 Backports
+
+| Mod                        | Downloads |
+|---------------------------|-----------|
+| Accurate Block Placement  | 1,148     |
+| Easy Magic                | 269       |
+| Inventory Profiles Next   | 220       |
+| Overflowing Bars          | 127       |
+| Easy Anvils               | 98        |
+| Falling Leaves            | 79        |
+| You Died                  | 27        |
+
+**Total: ~2K Downloads**
+
+---
+
+<div align="center">
+
+[All Repositories](https://github.com/hunterhaunter?tab=repositories) • [CurseForge](https://www.curseforge.com/members/nameisxy/projects)
+
+</div>
