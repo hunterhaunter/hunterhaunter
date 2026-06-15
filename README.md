@@ -12,12 +12,6 @@
 
 ---
 
-### Accurate Block Placement Reforked
-
-[![CurseForge](https://img.shields.io/badge/CurseForge-1.1K_Downloads-FF6B00?style=flat&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked)
-
----
-
 ### 1.12.2 Backports
 
 | Mod                        | Downloads |
