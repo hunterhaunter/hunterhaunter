@@ -3,8 +3,6 @@
 # **Xy**
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
-![Forge](https://img.shields.io/badge/Forge-1.12.2-000000?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
