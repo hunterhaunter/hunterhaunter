@@ -24,14 +24,19 @@
 
 ---
 
-### Work In Progress Done % :
+### Work In Progress Mods :
 
-|Particular (Backport) ~85%|
-|Better Weather Forgified ~ ~75%|
-|Visuality (Backport) ~80%|
-|Undergarden (Backport) ~60%|
-|Hold My Items (Backport) ~30%|
-|Eating Animations (Backport) ~50%|
+
+| Mod                          | % Completed |
+|-----------------------------|-----------|
+|Particular (Backport) | ~85% |
+|Better Weather Forgified | ~75% |
+|Visuality (Backport) | ~80% |
+|Undergarden (Backport) | ~60% |
+|Hold My Items (Backport) | ~30% |
+|Eating Animations (Backport) | ~50% |
+
+---
 
 <div align="center">
 
