@@ -24,6 +24,15 @@
 
 ---
 
+### Work In Progress Done % :
+
+Particular (Backport) ~85%
+Better Weather Forgified ~ ~75%
+Visuality (Backport) ~80%
+Undergarden (Backport) ~60%
+Hold My Items (Backport) ~30%
+Eating Animations (Backport) ~50%
+
 <div align="center">
 
 [View All on CurseForge](https://www.curseforge.com/members/nameisxy/projects)
