@@ -2,8 +2,8 @@
 
 ### Xy
 
-![Minecraft](https://img.shields.io/badge/Target-1.12.2-62b47a?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/Source-1.20.1-62b47a?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/1.12.2-62b47a?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/1.20.1-62b47a?style=for-the-badge)
 
 </div>
 
