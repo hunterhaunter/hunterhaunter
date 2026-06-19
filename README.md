@@ -31,8 +31,8 @@
 |-----------------------------|-----------|-----------|
 |Particular (Backport) | ~95% | Polish & Bug Fixing |
 |Better Weather Forgified | ~95% | Looking Into Possible Additions |
-|Visuality (Backport) | ~95% | Verifying 1 to 1 Status |
-|Undergarden (Backport) | ~70% | Pushing Towards 1 to 1 world gen with 1.20.1 release |
+|Visuality (Backport) | ~95% | Verifying 1 - 1 Status |
+|Undergarden (Backport) | ~70% | Pushing Towards 1 - 1 world gen with the 1.20.1 release |
 |Hold My Items (Backport) | ~60% | Manual Position Allignment Required For All Items |
 |Eating Animations (Backport) | ~99% | Missing A Few Textures |
 
