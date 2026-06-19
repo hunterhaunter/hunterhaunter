@@ -14,12 +14,12 @@
 | Mod | Downloads |
 |-----------------------------|-----------|
 | [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~1.7K` |
-| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~339` |
-| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~332` |
-| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~198` |
-| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~136` |
-| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~159` |
-| [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | `~43` |
+| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~344` |
+| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~334` |
+| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~202` |
+| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~164` |
+| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~140` |
+| [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | `~44` |
 
 ---
 
