@@ -13,13 +13,13 @@
 
 | Mod | Downloads |
 |-----------------------------|-----------|
-| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~1.7K` |
-| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~344` |
+| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~2.1K` |
+| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~353` |
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~334` |
 | [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~202` |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~164` |
 | [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~140` |
-| [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | `~44` |
+| [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | `~52` |
 
 ---
 
@@ -43,5 +43,6 @@
 
 ### View All Projects
 [![CurseForge](https://img.shields.io/badge/CurseForge-View_All_Projects-6441A5?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-View_Projects-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
 
 </div>
