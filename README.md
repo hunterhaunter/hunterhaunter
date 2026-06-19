@@ -27,12 +27,15 @@
 
 | Mod | Progress | Current Status |
 |-----------------------------|-----------|---------------|
-| **Particular** (Backport) | `█████████░` ~95% | Polish & Bug Fixing |
-| **Better Weather Forgified** | `█████████░` ~95% | Looking Into Possible Additions |
-| **Visuality** (Backport) | `█████████░` ~95% | Verifying 1 - 1 Status |
-| **Undergarden** (Backport) | `███████░░░` ~70% | Pushing Towards 1 - 1 world gen with the 1.20.1 release |
-| **Hold My Items** (Backport) | `██████░░░░` ~60% | Manual Position Alignment Required For All Items |
-| **Eating Animations** (Backport) | `█████████░` ~99% | Missing A Few Textures |
+| **Eating Animations** (Backport) | `█████████░` ~99% | Missing a few textures |
+| **Particular** (Backport) | `█████████░` ~96% | Polish & visual tuning (cave dust, splash crown) |
+| **Better Weather Forgified** | `█████████░` ~95% | Parity complete — evaluating additions |
+| **Visuality** (Backport) | `█████████░` ~95% | Verifying 1:1 parity |
+| **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity tuning |
+| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done — final playtest verification |
+| **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity |
+| **Hold My Items** (Backport) | `██████░░░░` ~65% | Per-item manual position alignment |
+| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine wired — acoustics + in-game tuning |
 
 ---
 
