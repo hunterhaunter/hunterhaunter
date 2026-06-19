@@ -28,14 +28,14 @@
 | Mod | Progress | Current Status |
 |-----------------------------|-----------|---------------|
 | **Eating Animations** (Backport) | `█████████░` ~99% | Missing a few textures |
-| **Particular** (Backport) | `█████████░` ~96% | Polish & visual tuning (cave dust, splash crown) |
+| **Particular** (Backport) | `█████████░` ~96% | Polish & visual bug xies |
 | **Better Weather Forgified** | `█████████░` ~95% | Parity complete, evaluating additions |
-| **Visuality** (Backport) | `█████████░` ~95% | Verifying 1:1 parity |
-| **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity tuning |
-| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done, final playtest verification |
-| **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity |
-| **Hold My Items** (Backport) | `██████░░░░` ~65% | Per-item manual position alignment |
-| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine wired, acoustics + in-game tuning |
+| **Visuality** (Backport) | `█████████░` ~95% | Verifying 1:1 parity before release |
+| **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity issues |
+| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done, misc bugfixxing needed |
+| **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity needed before release |
+| **Hold My Items** (Backport) | `██████░░░░` ~65% | Per-item manual position alignment required before its complete |
+| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
 
 ---
 
