@@ -29,20 +29,20 @@
 |-----------------------------|-----------|---------------|
 | **Eating Animations** (Backport) | `█████████░` ~99% | Missing a few textures |
 | **Particular** (Backport) | `█████████░` ~96% | Polish & visual tuning (cave dust, splash crown) |
-| **Better Weather Forgified** | `█████████░` ~95% | Parity complete — evaluating additions |
+| **Better Weather Forgified** | `█████████░` ~95% | Parity complete, evaluating additions |
 | **Visuality** (Backport) | `█████████░` ~95% | Verifying 1:1 parity |
 | **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity tuning |
-| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done — final playtest verification |
+| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done, final playtest verification |
 | **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity |
 | **Hold My Items** (Backport) | `██████░░░░` ~65% | Per-item manual position alignment |
-| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine wired — acoustics + in-game tuning |
+| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine wired, acoustics + in-game tuning |
 
 ---
 
 <div align="center">
 
 ### View All Projects
-[![CurseForge](https://img.shields.io/badge/CurseForge-View_All_Projects-6441A5?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-View_Projects-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
+[![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
 
 </div>
