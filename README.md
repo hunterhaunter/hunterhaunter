@@ -19,7 +19,10 @@
 | [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~202` |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~164` |
 | [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~140` |
-| [You Died](https://www.curseforge.com/minecraft/mc-mods/you-died-backport) | `~52` |
+| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | `~34` |
+| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | `~52` |
+| [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | `~30` |
+
 
 ---
 
@@ -28,14 +31,17 @@
 | Mod | Progress | Current Status |
 |-----------------------------|-----------|---------------|
 | **Eating Animations** (Backport) | `█████████░` ~99% | Missing a few textures |
-| **Particular** (Backport) | `█████████░` ~96% | Polish & visual bug xies |
-| **Better Weather Forgified** | `█████████░` ~95% | Parity complete, evaluating additions |
-| **Visuality** (Backport) | `█████████░` ~95% | Verifying 1:1 parity before release |
 | **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity issues |
 | **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done, misc bugfixxing needed |
 | **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity needed before release |
-| **Hold My Items** (Backport) | `██████░░░░` ~65% | Per-item manual position alignment required before its complete |
+| **Hold My Items** (Backport) | `█████████░` ~90% | Per-item manual position alignment required before its complete |
 | **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
+| **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
+| **Modular Bosses**  |  `███░░░░░░░` ~30% | Early dev |
+| **Utility Mobs: Remastered** |   `█████████░` ~90%| Almost feature complete |
+| **Modular Bosses**  | `██░░░░░░░░` ~20% | Early dev |
+| **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
+
 
 ---
 
