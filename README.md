@@ -50,7 +50,7 @@ These projects use an AI-assisted workflow for Minecraft mod development and cro
 The primary focus is the faithful porting of mods across different Minecraft versions, with an emphasis on preserving original behavior and feel. This work is non-commercial and maintained as a hobby based on personal use.
 
 
---
+---
 
 ## Maintenance & Support
 * Bug fixes and compatibility patches
