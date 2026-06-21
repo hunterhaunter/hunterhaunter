@@ -39,7 +39,6 @@
 | **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
 | **Modular Bosses**  |  `███░░░░░░░` ~30% | Early dev |
 | **Utility Mobs: Remastered** |   `█████████░` ~90%| Feature complete. modernizing and adding extra config options |
-| **Modular Bosses**  | `██░░░░░░░░` ~20% | Early dev |
 | **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
 
 
