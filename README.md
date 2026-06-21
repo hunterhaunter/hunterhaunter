@@ -45,6 +45,19 @@
 
 ---
 
+## Development Workflow
+These projects use an AI-assisted workflow for Minecraft mod development and cross-version porting. AI tools are used for code translation between Minecraft versions, debugging support, and accelerating repetitive development tasks.
+
+The primary focus is the faithful porting of mods across different Minecraft versions, with an emphasis on preserving original behavior and feel. This work is non-commercial and done as a hobby based on personal use of the mods.
+
+## Maintenance & Support
+* Bug fixes and compatibility patches
+* Responding to issues and feedback when possible
+* Evaluating and implementing feature or port requests where appropriate
+
+
+---
+
 <div align="center">
 
 ### View All Projects
