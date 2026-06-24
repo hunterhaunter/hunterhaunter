@@ -13,7 +13,7 @@
 
 | Mod | Downloads |
 |-----------------------------|-----------|
-| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~3.5` |
+| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~3.5k` |
 | [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~500` |
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~506` |
 | [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~279` |
