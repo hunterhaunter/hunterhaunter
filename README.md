@@ -38,7 +38,7 @@
 | **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
 | **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
 | **Modular Bosses**  |  `███░░░░░░░` ~30% | Early dev |
-| **Utility Mobs: Remastered** |   `█████████░` ~90%| Feature complete. modernizing and adding extra config options |
+| **Utility Mobs: Redux** |   `█████████░` ~100%| Finished |
 | **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
 
 
