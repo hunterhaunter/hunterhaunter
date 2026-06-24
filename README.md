@@ -22,6 +22,7 @@
 | [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | `~34` |
 | [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | `~52` |
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | `~30` |
+| [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | `Just Released` |
 
 
 ---
@@ -38,7 +39,6 @@
 | **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
 | **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
 | **Modular Bosses**  |  `██████░░░░` ~60%   | Mobs spawn, texture & performance issues need fixing next|
-| **Utility Mobs: Redux** |   `██████████` ~100%| Finished |
 | **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
 
 
