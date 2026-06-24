@@ -13,15 +13,15 @@
 
 | Mod | Downloads |
 |-----------------------------|-----------|
-| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~2.1K` |
-| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~353` |
-| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~334` |
-| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~202` |
-| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~164` |
-| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~140` |
-| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | `~34` |
-| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | `~52` |
-| [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | `~30` |
+| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~3.5` |
+| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~500` |
+| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~506` |
+| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~279` |
+| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~320` |
+| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~240` |
+| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | `~114` |
+| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | `~185` |
+| [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | `~115` |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | `Just Released` |
 
 
