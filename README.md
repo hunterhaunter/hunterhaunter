@@ -37,8 +37,8 @@
 | **Hold My Items** (Backport) | `█████████░` ~90% | Per-item manual position alignment required before its complete |
 | **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
 | **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
-| **Modular Bosses**  |  `███░░░░░░░` ~30% | Early dev |
-| **Utility Mobs: Redux** |   `█████████░` ~100%| Finished |
+| **Modular Bosses**  |  `██████░░░░` ~60%   | Mobs spawn, texture & performance issues need fixing next|
+| **Utility Mobs: Redux** |   `██████████` ~100%| Finished |
 | **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
 
 
