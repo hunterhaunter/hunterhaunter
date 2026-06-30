@@ -1,68 +1,105 @@
 <div align="center">
 
-### Xy
+# Xy
 
-![Minecraft](https://img.shields.io/badge/1.12.2-62b47a?style=for-the-badge)
-![Minecraft](https://img.shields.io/badge/1.20.1-62b47a?style=for-the-badge)
+### Minecraft Mod Developer
+
+Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
+
+![Minecraft 1.12.2](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
+![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-62b47a?style=for-the-badge)
+
+---
+
+**10+ Released Projects** • **6,000+ Downloads** *(and growing)*
 
 </div>
 
 ---
 
-### Released Backports & Forks
+# About
 
-| Mod | Downloads |
-|-----------------------------|-----------|
-| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | `~3.5k` |
-| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | `~500` |
-| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | `~506` |
-| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | `~279` |
-| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | `~320` |
-| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | `~240` |
-| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | `~114` |
-| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | `~185` |
-| [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | `~115` |
-| [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | `Just Released` |
+I develop and maintain open-source Minecraft mods with a focus on faithfully bringing modern features to older Minecraft versions while preserving gameplay, compatibility, and performance.
 
+My primary areas of interest include:
+
+- Cross-version mod porting
+- Legacy Minecraft modernization
+- Quality-of-life improvements
+- Gameplay enhancements
+- Performance-conscious development
 
 ---
 
-### Work In Progress
+# Released Projects
 
-| Mod | Progress | Current Status |
-|-----------------------------|-----------|---------------|
-| **Eating Animations** (Backport) | `█████████░` ~99% | Missing a few textures |
-| **Smooth Swapping** (Backport) | `████████░░` ~85% | Animation timing parity issues |
-| **The Undergarden** (Backport) | `████████░░` ~85% | Worldgen 1:1 done, misc bugfixxing needed |
-| **Goblin Traders** (Backport) | `███████░░░` ~70% | Entity & trade behavior parity needed before release |
-| **Hold My Items** (Backport) | `█████████░` ~90% | Per-item manual position alignment required before its complete |
-| **Presence Footsteps** (Backport) | `█████░░░░░` ~50% | Sound engine complete, bug fix pass & then release |
-| **Better Clouds** (Backport) | `██░░░░░░░░` ~20% | Early dev |
-| **Modular Bosses**  |  `██████░░░░` ~60%   | Mobs spawn, texture & performance issues need fixing next|
-| **Seamless Loading Screen** | `█░░░░░░░░░` ~10% | Very early dev |
-
-
----
-
-## Development Workflow
-These projects use an AI-assisted workflow for Minecraft mod development and cross-version porting. The workflow is used for code translation between Minecraft versions, debugging support, and accelerating repetitive development tasks.
-
-The primary focus is the faithful porting of mods across different Minecraft versions, with an emphasis on preserving original behavior and feel. This work is non-commercial and maintained as a hobby based on personal use.
-
+| Project | Type |
+|----------|------|
+| [Accurate Block Placement](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforked) | Backport |
+| [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic-backport) | Backport |
+| [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils-backport) | Backport |
+| [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | Backport |
+| [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | Backport |
+| [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | Backport |
+| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | Reimplementation |
+| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Reimplementation |
+| [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
+| [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Expansion / Modernization |
 
 ---
 
-## Maintenance & Support
-* Bug fixes and compatibility patches
-* Responding to issues and feedback when possible
-* Evaluating and implementing feature or port requests where appropriate
+# Active Development
 
+| Project | Status |
+|----------|--------|
+| Eating Animations | 🟢 Polish & Final Testing |
+| Hold My Items | 🟢 Manual Alignment Pass |
+| Smooth Swapping | 🟡 Animation Polish |
+| The Undergarden | 🟡 Bug Fixing |
+| Goblin Traders | 🟡 Gameplay Parity |
+| Presence Footsteps | 🟡 Bug Fixes |
+| Modular Bosses | 🔵 Active Development |
+| Better Clouds | 🔵 Early Development |
+| Seamless Loading Screen | ⚪ Research & Prototype |
+
+---
+
+# Development Philosophy
+
+Every project aims to:
+
+- Preserve the original gameplay experience
+- Match the behavior of newer versions as closely as possible
+- Improve compatibility with the surrounding mod ecosystem
+- Fix issues where appropriate without changing the original design philosophy
+- Remain lightweight and easy to integrate into existing modpacks
+
+---
+
+# Development Workflow
+
+Projects are developed using a combination of manual implementation, reverse engineering, debugging, and AI-assisted tooling where appropriate.
+
+AI is primarily used to accelerate repetitive development tasks, assist with code translation between Minecraft versions, and support debugging. All code is manually reviewed, tested, and maintained before release.
+
+---
+
+# Maintenance
+
+I actively maintain released projects by:
+
+- Fixing reported bugs
+- Improving compatibility
+- Reviewing feature requests
+- Updating documentation
+- Responding to issues when possible
 
 ---
 
 <div align="center">
 
-### View All Projects
+## Find My Projects
+
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
 
