@@ -41,8 +41,8 @@ My primary areas of interest include:
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next-backport) | Backport |
 | [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars-backport) | Backport |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-backport) | Backport |
-| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | Reimplementation |
-| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Reimplementation |
+| [Visuality: Reforged](https://www.curseforge.com/minecraft/mc-mods/visuality-reforged-backport) | Backport |
+| [Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged-backport) | Backport |
 | [BetterWeather: Renewed](https://www.curseforge.com/minecraft/mc-mods/betterweather-renewed) | Revival |
 | [Utility Mobs: Redux](https://www.curseforge.com/minecraft/mc-mods/utility-mobs-redux) | Expansion / Modernization |
 
@@ -53,7 +53,7 @@ My primary areas of interest include:
 | Project | Status |
 |----------|--------|
 | Eating Animations | 🟢 Polish & Final Testing |
-| Hold My Items | 🟢 Manual Alignment Pass |
+| Hold My Items | 🟢  Polish & Final Testing |
 | Smooth Swapping | 🟡 Animation Polish |
 | The Undergarden | 🟡 Bug Fixing |
 | Goblin Traders | 🟡 Gameplay Parity |
