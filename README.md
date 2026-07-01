@@ -11,7 +11,7 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 ---
 
-**10+ Released Projects** • **6,000+ Downloads** *(and growing)*
+**10+ Released Projects** • **6,000+ Downloads** *and counting.*
 
 </div>
 
