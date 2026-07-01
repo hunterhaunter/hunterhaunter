@@ -6,11 +6,6 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
-![Minecraft 1.12.2](https://img.shields.io/badge/Minecraft-1.12.2-62b47a?style=for-the-badge)
-![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-62b47a?style=for-the-badge)
-
----
-
 [![Discord](https://img.shields.io/discord/1521634797775093830?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PKP6QYmeWW)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3M5OCA)
 
