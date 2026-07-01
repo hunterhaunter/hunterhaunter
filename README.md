@@ -11,6 +11,11 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 ---
 
+[![Discord](https://img.shields.io/discord/1521634797775093830?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PKP6QYmeWW)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3M5OCA)
+
+---
+
 **10+ Released Projects** • **6,000+ Downloads** *and counting.*
 
 </div>
@@ -102,7 +107,5 @@ I actively maintain released projects by:
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/nameisxy/projects)
 [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/nameisxy)
-[![Discord](https://img.shields.io/discord/1521634797775093830?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PKP6QYmeWW)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L3M5OCA)
 
 </div>
