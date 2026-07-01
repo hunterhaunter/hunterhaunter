@@ -11,7 +11,7 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 ---
 
-**10+ Released Projects** • **6,000+ Downloads** *and counting.*
+**10+ Released Projects** • **6,000+ Downloads**
 
 </div>
 
@@ -69,7 +69,6 @@ My primary areas of interest include:
 Every project aims to:
 
 - Preserve the original gameplay experience
-- Match the behavior of newer versions as closely as possible
 - Improve compatibility with the surrounding mod ecosystem
 - Fix issues where appropriate without changing the original design philosophy
 - Remain lightweight and easy to integrate into existing modpacks
