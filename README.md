@@ -1,7 +1,6 @@
 <div align="center">
 
 # Xy
-
 ### Minecraft Mod Developer
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
@@ -14,15 +13,7 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 # About me
 
-I develop and maintain open-source Minecraft mods with a focus on faithfully bringing modern features to older Minecraft versions while preserving gameplay, compatibility, and performance.
-
-My primary areas of interest include:
-
-- Cross-version mod porting
-- Legacy Minecraft modernization
-- Quality-of-life improvements
-- Gameplay enhancements
-- Performance-conscious development
+I develop and maintain open-source Minecraft mods, porting them between older and newer versions (mainly to 1.12.2 and 1.20.1) while preserving gameplay, compatibility, and performance. Most of my work involves backports and reviving mods that fell out of maintenance, with an emphasis on staying lightweight and compatible with the surrounding ecosystem.
 
 ---
 
@@ -48,7 +39,7 @@ My primary areas of interest include:
 | Project | Status |
 |----------|--------|
 | Eating Animations | 🟢 Polish & Final Testing |
-| Hold My Items | 🟢  Polish & Final Testing |
+| Hold My Items | 🟢 Polish & Final Testing |
 | Smooth Swapping | 🟡 Animation Polish |
 | The Undergarden | 🟡 Bug Fixing |
 | Goblin Traders | 🟡 Gameplay Parity |
@@ -62,7 +53,6 @@ My primary areas of interest include:
 # Development Philosophy
 
 Every project aims to:
-
 - Preserve the original gameplay experience
 - Improve compatibility with the surrounding mod ecosystem
 - Fix issues where appropriate without changing the original design philosophy
@@ -72,16 +62,15 @@ Every project aims to:
 
 # Development Workflow
 
-Projects are developed using a combination of manual implementation, reverse engineering, debugging, and AI-assisted tooling where appropriate.
-
-AI is primarily used to accelerate repetitive development tasks, assist with code translation between Minecraft versions, and support debugging. All code is manually reviewed, tested, and maintained before release.
+- Manual implementation, reverse engineering, and debugging form the core of the process
+- AI tooling accelerates repetitive tasks, cross-version code translation, and debugging support
+- All code is manually reviewed, tested, and maintained before release
 
 ---
 
 # Maintenance
 
 I actively maintain released projects by:
-
 - Fixing reported bugs
 - Improving compatibility
 - Reviewing feature requests
