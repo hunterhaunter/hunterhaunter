@@ -6,8 +6,6 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
-[![Discord](https://img.shields.io/discord/1521634797775093830?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PKP6QYmeWW)
-
 ---
 
 **10+ Released Projects** • **6,000+ Downloads**
