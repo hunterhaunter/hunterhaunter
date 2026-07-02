@@ -6,8 +6,6 @@
 
 Specializing in high-quality backports, cross-version ports, gameplay improvements, and quality-of-life mods for Minecraft Forge.
 
----
-
 **10+ Released Projects** • **6,000+ Downloads**
 
 </div>
