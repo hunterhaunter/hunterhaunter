@@ -12,7 +12,7 @@ Specializing in high-quality backports, cross-version ports, gameplay improvemen
 
 ---
 
-# About
+# About me
 
 I develop and maintain open-source Minecraft mods with a focus on faithfully bringing modern features to older Minecraft versions while preserving gameplay, compatibility, and performance.
 
